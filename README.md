@@ -135,7 +135,7 @@
 - 由于前面使用软件获取了 device_id，所以请使用 **支付宝小程序** 查看打卡结果是否记录上去，以免手机登录 device_id 失效
 
 
-
+ 
 
 ## 🙋‍脚本有问题
 * 有问题可提 [issue](https://github.com/ReaJason/17wanxiaoCheckin-Actions/issues)
